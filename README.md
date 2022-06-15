@@ -1,6 +1,7 @@
 ### hello, i'm @anna-katherine! ✨
-🍓 i am a second year studying computer science and web development at usc!  
-✨ i’m currently learning .NET MAUI (C# and XAML)  
+🍓 i'm a second year studying computer science and web development at usc!  
+✨ i’m currently learning .NET MAUI (C# and XAML)
+👯 i’m looking to collaborate on anything! (hackathons, designathons, projects - design or eng)
 📫 reach me at annakath@usc.edu | 🤗 visit me at www.annakatherine.me  
 
 

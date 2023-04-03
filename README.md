@@ -1,6 +1,6 @@
 ### hello, i'm @anna-katherine! ✨
 🍓 i'm a second year studying computer science and web development at usc!  
-✨ i’m currently learning Svelte and Node.js
+✨ i’m currently learning Svelte and Node.js  
 👯 i’m looking to collaborate on anything! (hackathons, designathons, design or engineering projects~)  
 📫 reach me at annakath@usc.edu | 🤗 visit me at www.annakatherine.me  
 

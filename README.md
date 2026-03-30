@@ -1,6 +1,6 @@
 ### i'm anna katherine, a design-engineer ✨
 🍓 computer science @ usc  
-✨ product designer @ ticketmaster
+✨ product designer @ ticketmaster   
 📫 reach me at annaahzao@gmail.com | 🤗 visit me at annakatherine.me  
 
 

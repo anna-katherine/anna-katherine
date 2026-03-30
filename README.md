@@ -1,8 +1,7 @@
-### hello, i'm @anna-katherine! ✨
-🍓 i'm a fourth year studying computer science and web development at usc!  
-✨ i’m currently learning Svelte and Node.js  
-👯 i’m looking to collaborate on anything! (hackathons, designathons, design or engineering projects~)  
-📫 reach me at annakath@usc.edu | 🤗 visit me at www.annakatherine.me  
+### i'm anna katherine, a design-engineer ✨
+🍓 computer science @ usc  
+✨ product designer @ ticketmaster
+📫 reach me at annaahzao@gmail.com | 🤗 visit me at annakatherine.me  
 
 
 
